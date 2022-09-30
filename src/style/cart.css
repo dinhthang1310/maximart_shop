@@ -1,0 +1,21 @@
+
+.table tr td img {
+    width: 80px !important;
+    height: 80px !important;
+    object-fit: cover;
+}
+td i {
+    cursor: pointer;
+}
+th, td {
+    color: var(--primary-color);
+}
+.checkout {
+    width: 500px;
+}
+.checkout h6 {
+    font-weight: bold;
+}
+.checkout p {
+    color: var(--primary-color);
+}
